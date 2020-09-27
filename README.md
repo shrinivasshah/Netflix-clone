@@ -1,3 +1,3 @@
-### Simple Netflix Frontend clone
-# Link: https://netflix-clone-729bc.web.app/
+# Simple Netflix Frontend clone
+### Link: https://netflix-clone-729bc.web.app/
 
